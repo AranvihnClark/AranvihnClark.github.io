@@ -125,6 +125,12 @@ a {
     font-style: italic;
 }
 
+#current-project-gif {
+    width: 500px;
+    height: auto;
+    padding-left: 10vw;
+}
+
 #sun-light {
     opacity: 50%;
     background: radial-gradient(70% 70% at top left, #ffd000, #ffffff);
